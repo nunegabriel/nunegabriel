@@ -2,6 +2,7 @@
 --------------
 
 ### Software Engineer 🛠️
+****
 
 I am Gabriel and I am a Fullstack developer.I have experience in building applications and modern responsive websites. 
 
