@@ -4,6 +4,8 @@
 #
 
 I am Gabriel and I am a Fullstack developer.I have experience in building applications and modern responsive websites. If I am not building a website, I'm working on design projects or building 3D assets.
+#
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 <!--
 **nunegabriel/nunegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
