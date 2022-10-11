@@ -4,6 +4,7 @@
 #
 
 🌟I am Gabriel and I am a Full stack developer, currently studying at Microverse.I have experience in building applications and modern responsive websites.</br>
+🌟I am open to new job opportunities.</br>
 🌟If I am not building a website, I'm working on design projects or building 3D assets.
 #
 📧 Here is my email [nune.gabriel.gn@gmailcom](mailto:nune.gabriel.gn@gmailcom)
