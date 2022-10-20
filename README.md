@@ -2,7 +2,6 @@
 #
 ### About Me 🛠️
 #
-![bttf_web_banner_v4](https://user-images.githubusercontent.com/42734825/196821304-16ffaac5-c20d-41d0-aa12-b0c36c9c629f.jpg)
 
 🌟I am Gabriel and I am a Full stack developer, currently studying at Microverse.I have experience in building applications and modern responsive websites.</br>
 🌟I am open to new job opportunities.</br>
