@@ -3,7 +3,7 @@
 ### About Me 🛠️
 #
 
-🌟I am Gabriel and I am a Full stack developer.I have experience in building applications and modern responsive websites.</br>
+🌟I am Gabriel and I am a Full stack developer and Data Analyst. I have experience in building applications and modern responsive websites.</br>
 🌟I am open to new job opportunities.</br>
 🌟If I am not building a website, I'm working on design projects or building 3D assets.
 #
